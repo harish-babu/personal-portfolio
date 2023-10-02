@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-# Data Science Portfolio
+# Movie Review Project
 ---
-## Machine learning
+## Microservices
 
-### Fraud Detection
+### A Movie Meview Backend
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+Create and manage movie reviews through APIs.  This backend is a port of Awesome Project, but modified to handle movie reviews rather than book reviews.  Create, update, delete & search reviews through appropriate APIs.  Rudimentary user management is also included.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harish-babu/movie-reviews)
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
