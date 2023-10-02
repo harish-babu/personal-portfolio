@@ -11,5 +11,5 @@ Create and manage movie reviews through APIs.  This backend is a port of Awesome
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/harish-babu/movie-reviews)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/jakob-owens-CiUR8zISX60-unsplash.jpg"/></center>
 
