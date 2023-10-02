@@ -5,7 +5,7 @@ layout: default
 ---
 ## Microservices
 
-### A Movie Meview Backend
+### A Movie Review Backend
 
 Create and manage movie reviews through APIs.  This backend is a port of Awesome Project, but modified to handle movie reviews rather than book reviews.  Create, update, delete & search reviews through appropriate APIs.  Rudimentary user management is also included.
 
